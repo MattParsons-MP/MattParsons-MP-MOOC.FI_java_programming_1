@@ -12,10 +12,8 @@ public class SumOfASequence {
         int total = 0;
                 
         for (int i = start; i <= end; i++) {
-            total = total + i;
-            
+            total = total + i;   
         }
         System.out.println("The sum is " + total);
-
     }
 }
