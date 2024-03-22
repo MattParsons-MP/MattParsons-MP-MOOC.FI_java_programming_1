@@ -10,6 +10,5 @@ public class SquareRootOfSum {
         int sum = first + second;
         double squareRoot = Math.sqrt(sum);
         System.out.println(squareRoot);
-
     }
 }
