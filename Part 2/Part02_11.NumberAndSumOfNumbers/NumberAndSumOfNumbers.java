@@ -21,11 +21,9 @@ public class NumberAndSumOfNumbers {
             
             if (number > 0 || number < 0) {
                 sum = sum + number;
-            }
-            
+            } 
         }
         System.out.println("Number of numbers:" + total);
         System.out.println("Sum of the numbers:" + sum);                     
-
     }
 }
