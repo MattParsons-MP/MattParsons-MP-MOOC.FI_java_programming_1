@@ -23,6 +23,5 @@ public class AverageOfNumbers {
         }  
         double average = 1.0 * sum/total;
         System.out.println("Average of the numbers: " + average);
-
     }
 }
