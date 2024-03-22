@@ -27,6 +27,5 @@ public class AverageOfPositiveNumbers {
             double average = (1.0 * sum / total);
             System.out.println(average);
         }
-    
     }
 }
