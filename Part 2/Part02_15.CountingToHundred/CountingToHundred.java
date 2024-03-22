@@ -11,6 +11,5 @@ public class CountingToHundred {
         for (int i = start; i <= end; i++) {
             System.out.println(i);
         }
-
     }
 }
