@@ -16,9 +16,6 @@ public class OnlyPositives {
                 continue;
             }
             System.out.println(number * number);
-            
-          
         }
-
     }
 }
