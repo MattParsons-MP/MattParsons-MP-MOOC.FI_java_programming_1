@@ -13,12 +13,9 @@ public class SumOfNumbers {
                 break;
             }    
             if (number < 0 || number > 0) {
-                sum = sum + number ;
-                
+                sum = sum + number ; 
             }
-          
         }
         System.out.println("Sum of the numbers: " + sum); 
-
     }
 }
