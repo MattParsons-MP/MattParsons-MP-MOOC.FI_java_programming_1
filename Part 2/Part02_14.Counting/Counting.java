@@ -10,7 +10,5 @@ public class Counting {
         for (int i = start; i <= end; i++) {
             System.out.println(i);
         }
-        
-
     }
 }
