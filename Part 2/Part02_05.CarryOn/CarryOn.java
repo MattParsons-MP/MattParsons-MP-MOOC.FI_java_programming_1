@@ -11,10 +11,7 @@ public class CarryOn {
             String input = scanner.nextLine();
             if (input.equals ("no")) {
                 break;
-            }
-                       
+            }              
         }
-     
-
     }
 }
