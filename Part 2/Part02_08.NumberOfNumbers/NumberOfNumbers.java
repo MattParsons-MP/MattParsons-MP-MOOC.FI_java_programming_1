@@ -16,10 +16,8 @@ public class NumberOfNumbers {
             } 
             if (number < 0 || number > 0) {
                 inputs = inputs + 1;  
-                continue;
-                                
-            }
-                                    
+                continue;                    
+            }                          
         }
         System.out.println("Number of numbers: " + inputs);
     }
