@@ -22,10 +22,7 @@ public class RepeatingBreakingAndRemembering {
                 odd = odd + 1;
             }
             sum = sum + number;
-            total = total + 1;
-            
-             
-                
+            total = total + 1;        
         }
         double average = 1.0 * sum / total;
         System.out.println("Thx! Bye!");
@@ -33,8 +30,6 @@ public class RepeatingBreakingAndRemembering {
         System.out.println("Numbers: " + total);
         System.out.println("Average:" + average);
         System.out.println("Even: " + even );
-        System.out.println("Odd: " + odd);
-        
-            
+        System.out.println("Odd: " + odd);       
     }
 }
