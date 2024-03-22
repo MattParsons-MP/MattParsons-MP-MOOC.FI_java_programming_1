@@ -14,6 +14,5 @@ public class SumOfASequenceTheSequel {
             sum = sum + i;
         }
         System.out.println("The sum is: " + sum);
-     
     }
 }
