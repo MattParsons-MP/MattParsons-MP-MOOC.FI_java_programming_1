@@ -8,8 +8,5 @@ public class Squared {
         int first = Integer.valueOf(scanner.nextLine());
         int square = first * first;
         System.out.println(square);
-                
-        
-
     }
 }
