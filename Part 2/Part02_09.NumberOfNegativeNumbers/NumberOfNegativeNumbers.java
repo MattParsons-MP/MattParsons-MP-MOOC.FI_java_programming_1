@@ -13,12 +13,9 @@ public class NumberOfNegativeNumbers {
                 break;
             }    
             if (number < 0) {
-                negatives = negatives + 1 ;
-                
+                negatives = negatives + 1 ;  
             }
-          
         }
-        System.out.println("Number of negative numbers: " + negatives); 
-        
+        System.out.println("Number of negative numbers: " + negatives);    
     }
 }
