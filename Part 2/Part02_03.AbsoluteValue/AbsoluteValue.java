@@ -11,8 +11,5 @@ public class AbsoluteValue {
         } else {
             System.out.println(number);
         }
-        
-    
-
     }
 }
